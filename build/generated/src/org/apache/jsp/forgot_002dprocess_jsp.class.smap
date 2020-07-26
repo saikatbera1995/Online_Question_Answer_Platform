@@ -1,0 +1,12 @@
+SMAP
+forgot_002dprocess_jsp.java
+JSP
+*S JSP
+*F
++ 0 forgot-process.jsp
+forgot-process.jsp
+*L
+1,10:45
+12,25:55
+36,3:80
+*E
